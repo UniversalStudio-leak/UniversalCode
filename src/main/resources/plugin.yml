@@ -1,0 +1,20 @@
+# Plugin recompiled by NaulbiMIX | Sponsored by FlatiCommunity (https://t.me/flaticommunity)
+# Specially publication for https://teletype.in/@naulbimix/rumine
+#
+# Плагин разработан командой кодеров UniversalStudio для бесплатного использования.
+# Если Вы обнаружите какой-либо баг, незамедлительно сообщите нам.
+# Vk: vk.com/universalstudio
+# Site: u-studio.su
+
+name: UniversalCode # wCode
+author: UniversalStudio Inc
+
+version: 1.0
+main: ru.universalstudio.universalcode.Main
+softdepend: # енто по нашему
+    - PlaceholderAPI
+    - WorldEdit
+    - WorldGuard
+commands:
+    code:
+    codereload:
